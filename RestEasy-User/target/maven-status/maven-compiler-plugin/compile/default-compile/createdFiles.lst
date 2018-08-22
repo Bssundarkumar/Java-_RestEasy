@@ -1,0 +1,8 @@
+com\restEasy\Dao\UserDaoImpl.class
+com\restEasy\Dao\UserDao.class
+com\restEasy\entity\User.class
+com\restEasy\service\UserServiceImpl.class
+com\restEasy\app\UserApplication.class
+com\restEasy\client\RestEasyTestClient.class
+com\restEasy\service\UserService.class
+com\restEasy\entity\GenericResponse.class

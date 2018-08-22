@@ -9,7 +9,7 @@ It is implemented using RESTEasy, Json using maven
 API: You can Implement on PostMan
 a. Add New User:
 http://localhost:8080/RestEasy-User/user/add
-
+Header values:
 [{"key":"Accept","value":"application/json","description":""},{"key":"Content-Type","value":"application/json","description":""}]
 
 b. Get Dummy User 

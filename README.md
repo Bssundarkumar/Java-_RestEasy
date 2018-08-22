@@ -4,7 +4,7 @@
 Java Application can run on Toomcat Server
 
 Here You can add the new user, delete User, It had a dummy user, You can see all the Users in the JSON Format
-It is implemented using RESTEasy, Json using maven
+CURD operaions implemented using RESTEasy, Json using maven
 
 API: You can Implement on PostMan
 a. Add New User:
@@ -23,3 +23,5 @@ http://localhost:8080/RestEasy-User/user/154/get
  
 E. Get All Users
 http://localhost:8080/RestEasy-User/user/getAll
+
+
